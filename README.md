@@ -1,0 +1,2 @@
+# Julia_tips
+Juliaを使っていて学んだTipsを書き溜めておきます
